@@ -1,0 +1,4 @@
+ <a href="index.html" class="navbar-brand bg-primary px-4 mx-3 d-none d-lg-block">
+            <h1 class="display-4 text-white text-uppercase m-0">ArkaShine</h1>
+        </a>
+        
